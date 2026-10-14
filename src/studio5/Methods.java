@@ -81,7 +81,7 @@ public class Methods {
 	public static int arraySum(int[] values) {
 		int sum = 0;
 		for (int i = 0; i<values.length;i++){
-			sum = sum + values[i];
+			sum =sum + values[i];
 
 		}
 		// FIXME: Compute the sum of the values in an array
